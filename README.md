@@ -1,5 +1,2 @@
-# Fosscell_hackathon
-
-Frameworks :
-html,css
-flutter
+I have used Tinder, I have used Bumble. Heck, there was a low point in my life when I signed up on Grindr. However, none of them got me the matches I was looking for. I'm going to be frank with you, I'm an average-looking male in an engineering college and all I really desire is a great package and an even better wife. My uncle will take care of the package, so no worries in that department. The latter, however, is a problem for me. Trying to find a suitable partner who possesses the qualities that I'm looking for is a challenging task. I have used Tinder, I have used Bumble. Heck, there was a low point in my life when I signed up on Grindr. However, none of them got me the matches I was looking for. I'm an engineer, I literally solve problems for a living. It was then that it dawned upon me. Im in an engineering college, and everyone else must be facing the same problems I am. 
+This is when I and my friends came up with Love At First Byte. LFB is an application that focuses on connecting people based on things that actually matter to us.
